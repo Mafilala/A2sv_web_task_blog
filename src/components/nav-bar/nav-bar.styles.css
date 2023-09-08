@@ -1,0 +1,22 @@
+nav {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  border-right: 0.5px solid lightgray;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-link {
+  color: black;
+}
+.logo-container {
+  justify-self: center;
+}
+.logo {
+  font-size: 42px;
+}

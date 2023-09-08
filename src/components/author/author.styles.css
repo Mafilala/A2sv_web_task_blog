@@ -1,0 +1,15 @@
+.author {
+  display: flex;
+}
+
+.author-image-container {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.author-name {
+  color: black;
+  font-family: cursive;
+  margin-left: 10px;
+}

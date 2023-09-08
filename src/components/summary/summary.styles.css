@@ -1,0 +1,9 @@
+.summary-container {
+  padding: 10px auto;
+  max-width: 25vw;
+}
+
+.summary-container p {
+  font-size: 13px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

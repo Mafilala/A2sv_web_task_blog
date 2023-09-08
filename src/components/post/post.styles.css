@@ -1,0 +1,10 @@
+.post {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  width: 40vw;
+}
+.post-image-container {
+  border-top-right-radius: 0.35rem;
+  border-bottom-right-radius: 0.35rem;
+  overflow: hidden;
+}

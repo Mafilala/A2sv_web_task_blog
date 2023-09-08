@@ -1,0 +1,36 @@
+.line {
+  width: 35vw;
+  height: 0.5px;
+  background-color: lightgray;
+  margin: 30px 10px;
+}
+.blog {
+  display: grid;
+  grid-template-columns: 1fr 10fr 4fr;
+  gap: 5rem;
+  background-color: white;
+  padding: 2rem 0.25rem;
+}
+.button-group {
+  max-width: 10vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+button {
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.middle {
+  border-right: 0.5px solid lightgray;
+  padding-right: 5rem;
+}
+h1 {
+  font-family: cursive;
+  margin-left: -2rem;
+  margin-bottom: 1rem;
+  text-decoration: underline;
+}
