@@ -8,10 +8,11 @@
   border-bottom-right-radius: 0.35rem;
   overflow: hidden;
 }
-.comment {
+.likes {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  gap: 0.25rem;
 }
 footer {
   display: flex;
@@ -22,4 +23,7 @@ footer {
   height: 0.05px;
   width: 80%;
   background-color: lightgray;
+}
+.active {
+  color: green;
 }
