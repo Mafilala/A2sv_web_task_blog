@@ -8,3 +8,18 @@
   border-bottom-right-radius: 0.35rem;
   overflow: hidden;
 }
+.comment {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.mini-line {
+  height: 0.05px;
+  width: 80%;
+  background-color: lightgray;
+}
