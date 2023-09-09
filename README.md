@@ -1,8 +1,5 @@
-# React + Vite
+# UseState hook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have made use of useState hook to manage the number of likes.
+whenever a user click the like button the hook will be set and the number of likes increase and the
+the thumbs up icon turns green. If the like button is clicked again the whole process will undone.
