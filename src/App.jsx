@@ -33,10 +33,9 @@ function App() {
           <button>Cryptocurrenccy</button>
           <button>Technology</button>
           <button>Fiction</button>
-
           <button>Sci-fi</button>
           <button>Mindfulness</button>
-          <button>consistency</button>
+          <button>Consistency</button>
         </div>
       </div>
     </div>

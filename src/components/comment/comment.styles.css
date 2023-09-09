@@ -1,0 +1,14 @@
+.single-comment {
+  width: 25vw;
+  background-color: gray;
+  overflow: auto;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.comment-section {
+  overflow: auto;
+  max-height: 30vh;
+  border-radius: 0.5rem;
+  opacity: 0.9;
+}
